@@ -17,7 +17,7 @@ Proyecto desarrollado por Fabio Guerrero.
 - JavaScript<br>
 
 <h2>📷 Vista previa</h2>
-![Image Alt](https://github.com/FG-MEC/amigo-secretof/blob/f82efece9ed85d780fdad56b4167a4a11904d2d2/captura.png)
+![Image_Alt](https://github.com/FG-MEC/amigo-secretof/blob/f82efece9ed85d780fdad56b4167a4a11904d2d2/captura.png)
 
 <h2>📦 Cómo usar</h2>
 Clona este repositorio:<br>
