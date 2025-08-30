@@ -17,7 +17,7 @@ Proyecto desarrollado por Fabio Guerrero.
 - JavaScript<br>
 
 <h2>📷 Vista previa</h2>
-![Captura de la app](assets/captura.png)
+![Captura de la app](captura.png)
 
 <h2>📦 Cómo usar</h2>
 Clona este repositorio:<br>
