@@ -16,6 +16,9 @@ Proyecto desarrollado por Fabio Guerrero.
 - CSS<br>
 - JavaScript<br>
 
+<h2>📷 Vista previa</h2>
+![Captura de la app](assets/captura.png)
+
 <h2>📦 Cómo usar</h2>
 Clona este repositorio:<br>
 - git clone https://github.com/FG-MEC/amigo-secretof.git<br>
